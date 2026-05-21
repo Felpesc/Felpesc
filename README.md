@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Felpesc/Felpesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Felipe Campos 
 
-Here are some ideas to get you started:
+**Frontend Developer** transitioning to **Fullstack** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-felipecampos.dev.br-black?style=flat-square&logo=safari&logoColor=white)](https://felipecampos.dev.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipesiqueiracampos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipesiqueiracampos)
+[![GitHub](https://img.shields.io/badge/GitHub-Felpesc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Felpesc)
+[![Email](https://img.shields.io/badge/Email-felipesiquecampos%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipesiquecampos@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Frontend Developer who builds modern, responsive, and high-performance interfaces. I'm currently expanding my skill set into backend development and databases to become a **Fullstack Developer**, delivering complete and scalable solutions.
+
+- 🎓 **Computer Science** @ Fundação Santo André (2025–2029)
+- 🌍 Advanced English (Wise Up, 2021–2025)
+- 🤝 Collaborative by nature, fast learner, proactive mindset
+- 🔍 **Open to work** — looking for my first job in tech
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Currently Learning**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🌤️ [Clima Agora](https://clima.felipecampos.dev.br/)
+> Real-time weather app using third-party APIs and async JavaScript (Async/Await).  
+> Demonstrates the ability to fetch and display live data — essential for connecting modern systems.
+
+### 🍽️ [Cardápio Digital](https://cardapio.felipecampos.dev.br/)
+> React-based product catalog with real-time search and filtering.  
+> Component architecture + Hooks state management. Applicable to any item-browsing system.
+
+### 🐾 [Petshop com Agendamento](https://petpremium.felipecampos.dev.br/)
+> Proof-of-concept for an online scheduling platform.  
+> Lets users autonomously book service appointments — frontend logic solving a real business challenge.
+
+### ✅ [ToDo List](https://todolist.felipecampos.dev.br/)
+> CRUD fundamentals in practice: Create, Read, Update, Delete.  
+> Vanilla JS DOM manipulation with instant state management — no libraries, pure logic.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felpesc&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felpesc&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Always building. Always learning."*
+
+</div>

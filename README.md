@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-felipecampos.dev.br-black?style=flat-square&logo=safari&logoColor=white)](https://felipecampos.dev.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipesiqueiracampos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipesiqueiracampos)
 [![GitHub](https://img.shields.io/badge/GitHub-Felpesc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Felpesc)
-[![Email](https://img.shields.io/badge/Email-felipesiquecampos%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipesiquecampos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-felipesiqueiracampos1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipesiqueiracampos1@gmail.com)
 
 </div>
 

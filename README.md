@@ -66,17 +66,7 @@ I'm a Frontend Developer who builds modern, responsive, and high-performance int
 > CRUD fundamentals in practice: Create, Read, Update, Delete.  
 > Vanilla JS DOM manipulation with instant state management — no libraries, pure logic.
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felpesc&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felpesc&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 

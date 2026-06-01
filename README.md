@@ -48,27 +48,6 @@ I'm a Frontend Developer who builds modern, responsive, and high-performance int
 
 ---
 
-## Featured Projects
-
-### 🌤️ [Clima Agora](https://clima.felipecampos.dev.br/)
-> Real-time weather app using third-party APIs and async JavaScript (Async/Await).  
-> Demonstrates the ability to fetch and display live data — essential for connecting modern systems.
-
-### 🍽️ [Cardápio Digital](https://cardapio.felipecampos.dev.br/)
-> React-based product catalog with real-time search and filtering.  
-> Component architecture + Hooks state management. Applicable to any item-browsing system.
-
-### 🐾 [Petshop com Agendamento](https://petpremium.felipecampos.dev.br/)
-> Proof-of-concept for an online scheduling platform.  
-> Lets users autonomously book service appointments — frontend logic solving a real business challenge.
-
-### ✅ [ToDo List](https://todolist.felipecampos.dev.br/)
-> CRUD fundamentals in practice: Create, Read, Update, Delete.  
-> Vanilla JS DOM manipulation with instant state management — no libraries, pure logic.
-
-
-
----
 
 <div align="center">
 
